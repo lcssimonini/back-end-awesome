@@ -7,28 +7,37 @@ Quer ser um Back-End foda pra caralho? Então você veio ao lugar certo, a Zup!
 ##Conteúdo
 
 1. [Ambiente](#Ambiente)
-2. [Vanilla Java](#VanillaJava)
-3. [Apache Maven](#ApacheMaven)
-4. [Algoritmos Java](#AlgoritmosJava)
-5. [Orientação a Objetos](#OrientacaoObjetos)
-6. [Design Patterns](#DesignPatterns)
-7. [Rest API](#RestAPI)
-8. [Docker](#Docker)
-9. [Spring Framework](#SpringFramework)
+1. [Linux](#Linux)
+1. [Vanilla Java](#VanillaJava)
+1. [Apache Maven](#ApacheMaven)
+1. [Algoritmos Java](#AlgoritmosJava)
+1. [Orientação a Objetos](#OrientacaoObjetos)
+1. [Design Patterns](#DesignPatterns)
+1. [Rest API](#RestAPI)
+1. [Docker](#Docker)
+1. [Spring Framework](#SpringFramework)
 
 ## Ambiente
 
 Primeiro é necessário configurar seu ambiente de desenvolvimento. Você deve instalar e configurar as seguintes ferramentas:
 
 1. Java JDK8
-2. Intellij IDE Community edition
-3. Apache Maven
-4. Docker
-5. Docker compose
+1. Intellij IDE Community edition
+1. Apache Maven
+1. Docker
+1. Docker compose
 
 ## knowledge
 
 **[⬆ back to top](#Ambiente)**
+
+## Linux
+
+É importante conhecer os comandos e conceitos básicos de um sistema linux para conseguir interagir de forma tranquila com as ferramentas que irá utilizar durante o desenvolvimento.
+
+## knowledge
+
+**[⬆ back to top](#Linux)**
 
 ## VanillaJava
 
@@ -36,10 +45,10 @@ Primeiro é necessário configurar seu ambiente de desenvolvimento. Você deve i
 
 ## knowledge
 
-Curso Java básico em português:
+* Curso Java básico em português:
 [Curso de java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 
-Tutorial java:
+* Tutorial java:
 [Tutorial java](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 
 
